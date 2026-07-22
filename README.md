@@ -1,1 +1,6 @@
-keep in mind this is my first time working/making nltk models so the performence won't be that impressive, any suggetions are welcomed
+This model uses RNN especially LSTM
+
+The dataset is qoutes from an author called Madeline Miller the qoutes from (Galatea,Circe)
+
+The model tries to predict the next word of a sequence based on the style of the author, the sequence is taken from a diffrent book from the same author called the song of achilles
+
